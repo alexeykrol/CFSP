@@ -1,9 +1,9 @@
 # CFSP
 Crypto Fund Syndicate Protocol a set of smart contracts of the next generation, the basis of which will be artificial intelligence. CFSP will be executed on any CFCF-supported blockbuster and allows for the formation of "fast" syndicates, and at peak moments, a financial lever comparable to global GDP - trillions of dollars.
 
-AI will not be the prerogative of funds, it will be a cloud or local downloadable service with a wide range of functions and its end user will be people. Modern Siri and its analogues will expand their functions, including the functions of investment analysts and managers. People and funds as intermediaries are not needed
+1. AI will not be the prerogative of funds, it will be a cloud or local downloadable service with a wide range of functions and its end user will be people. Modern Siri and its analogues will expand their functions, including the functions of investment analysts and managers. People and funds as intermediaries are not needed
 
-A device on which the new type of AI will function will be something between the desktop, smartphone, augmented reality glasses and a neuron interface with the brain. This device will not be embodied in one place - it will be a super cloud, "smeared" in different local and cloud environments.
+2. A device on which the new type of AI will function will be something between the desktop, smartphone, augmented reality glasses and a neuron interface with the brain. This device will not be embodied in one place - it will be a super cloud, "smeared" in different local and cloud environments.
 
 All that concerns financial and any transactions, identity, documents and reputation will be distributed in a variety of different blockages, both public and private.
 
