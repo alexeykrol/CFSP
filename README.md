@@ -5,7 +5,7 @@ Crypto Fund Syndicate Protocol a set of smart contracts of the next generation, 
 
 2. A device on which the new type of AI will function will be something between the desktop, smartphone, augmented reality glasses and a neuron interface with the brain. This device will not be embodied in one place - it will be a super cloud, "smeared" in different local and cloud environments.
 
-3. All that concerns financial and any transactions, identity, documents, and reputation will be distributed in a variety of different [b]blockchains[/b], both public and private.
+3. All that concerns financial and any transactions, identity, documents, and reputation will be distributed in a variety of different blockchains, both public and private.
 
 4. The source of information for AI will be a large network of oracles, distributed both in the physical world through IoT, and in the virtual world.
 
@@ -25,11 +25,11 @@ Crypto Fund Syndicate Protocol a set of smart contracts of the next generation, 
 
 12. The task of people to create the ideas, discuss them with other people and embody. All functions of financial management will be automated.
 
-13. Since a lot of versions of [b]block chains[/b] implementing, at a certain stage there will be a need for a meta layer that will allow "negotiating" different AIs and different [b]blockchains[/b] and crypto-currencies.
+13. Since a lot of versions of block chains implementing, at a certain stage there will be a need for a meta layer that will allow "negotiating" different AIs and different blockchains and crypto-currencies.
 
-14. This layer will be implemented in the form of [b]Crypto Fund Syndicate Protocol[/b] - as a language, a set of rules that allow creating "fast networks of investors, sponsors, and projects" in the scale-free-network architecture, on top of the hardware and architectural level of individual [b]blockchains[/b].
+14. This layer will be implemented in the form of Crypto Fund Syndicate Protocol - as a language, a set of rules that allow creating "fast networks of investors, sponsors, and projects" in the scale-free-network architecture, on top of the hardware and architectural level of individual blockchains.
 
-15. The analogy here is that [b]block chains[/b] and low-level smart contracts is the form the physical level of the network, this is like a network of neurons, axons, and synapses in the brain that can have different functions.
+15. The analogy here is that blockchains and low-level smart contracts is the form the physical level of the network, this is like a network of neurons, axons, and synapses in the brain that can have different functions.
 
 Crypto Fund Syndicate Protocol - will create a "consciousness", which is designed to solve one of the most important task - the easy mobilization of resources for the implementation of the most ambitious projects in the interests of the planet.
 
