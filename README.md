@@ -1,4 +1,50 @@
-# CFSP
+#### CFSP
+
+«У кого нет учителя, находиться в положении безродного, беспризорного, у которого нет отца»
+Абу-л-Хасан ал-Мурси
+
+
+#### Crypto Fund Syndicate Protocol
+
+Automated blockchain-based payments and investment management system.
+
+Alexey Krol  https://www.linkedin.com/in/alexkrol/
+
+
+В этом концепте развиваются идеи, высказанные в статьях по теме автоматизации финансовых решений на основе блокчейна.
+
+[Криптофонды: почему они убьют венчурные фонды, а потом умрут вместе с финансовой индустрией?](https://bitnovosti.com/2017/09/13/crypto-funds/)
+[Использование подходов ICO для науки, образование, и искусства](https://medium.com/test-pubs/альтернативная-система-финансироавния-проектов-развития-c7a1a902dd47)
+[AI + блокчейн = инвестиции в миллионы идей без рисков](https://medium.com/test-pubs/cfsp-3-8fe431f0a808)
+[Инвестирование без ограничений в миллионы проектов с управляемым риском](https://medium.com/test-pubs/cfsp-3-8fe431f0a808)
+
+А также по теме развития образовательных систем, выступающих естественными  наиболее эффективными оракулами для любых скоринговых систем, лежащих в основе автоматизации финансовых решений:
+
+[Инфографика: 5 трендов в образовании, которые формируют будущее](https://medium.com/krol-institute/инфографика-5-трендов-в-образовании-которые-формируют-будущее-2df2bc30a4c6)
+[Будущая система образования 2.0](https://medium.com/krol-institute/будущая-система-образования-2-0-6511b31099d3)
+[Проектное обучение](https://medium.com/krol-institute/проектное-обучение-1daab521b4ff)
+[Каким должен быть “Умный город”?]
+[Век живи — век учись! Чему и зачем стоит учиться после 45, 55, 65?]
+[Неизбежность меритократии как осознанный выбор просвещенных людей]
+[Сообщества создания стоимости - выступление на TEDx]
+[Эволюция сообществ - новый фреймворк]
+[Презентация системы управления экспертными сообществами]
+[Virtual Incubator and R&D network]
+[Система глобального менторинга]
+
+В этих и иных статьях, я разжевал один единственный тезис: 
+
+Самый выгодный, перспективный, вечный и глобальный бизнес для инвестиций — это рынок развития, включая образование и R&D. Более того, компания, которая сместит с Олимпа технологических гигантов, будет именно гибридная компания, сочетающая образование, R&D и услуги финансирования всех процессов развития. 
+
+Если кто хочет заглянуть за горизонт, я очень детально разобрал это в статье [Куда движется рынок образования и EdTech?] Прогноз на 10–15 лет, включая совершенно экзотические разработки DARPA, на конференции которой я был лично в Вашингтоне в прошлом году. Что такое Crypto Fund Syndicate Protocol?
+
+
+
+
+
+
+
+
 Crypto Fund Syndicate Protocol a set of smart contracts of the next generation, the basis of which will be artificial intelligence. CFSP will be executed on any CFCF-supported blockbuster and allows for the formation of "fast" syndicates, and at peak moments, a financial lever comparable to global GDP - trillions of dollars.
 
 1. AI will not be the prerogative of funds, it will be a cloud or local downloadable service with a wide range of functions and its end user will be people. Modern Siri and its analogs will expand their functions, including the functions of investment analysts and managers. People and funds as intermediaries are not needed
