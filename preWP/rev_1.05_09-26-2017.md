@@ -1,8 +1,7 @@
-#### Содержание
+#### Содержание - Crypto Fund Syndicate Protocol
 
-Crypto Fund Syndicate Protocol
 
-Что такое Crypto Fund Syndicate Protocol?
+[Что такое Crypto Fund Syndicate Protocol?](https://github.com/alexeykrol/CFSP/blob/master/preWP/rev_1.05_09-26-2017.md#%D0%A7%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-crypto-fund-syndicate-protocol)
 
 Зачем оно надо?
 
