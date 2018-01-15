@@ -3,12 +3,9 @@
 «У кого нет учителя, находиться в положении безродного, беспризорного, у которого нет отца»
 Абу-л-Хасан ал-Мурси
 
+### Содержание
 
-#### Crypto Fund Syndicate Protocol
-
-Automated blockchain-based payments and investment management system.
-
-Alexey Krol  https://www.linkedin.com/in/alexkrol/
+[Версии WP](https://github.com/SerendipityLab/CFSP/tree/master/preWP)
 
 
 В этом концепте развиваются идеи, высказанные в статьях по теме автоматизации финансовых решений на основе блокчейна.
@@ -42,7 +39,11 @@ Alexey Krol  https://www.linkedin.com/in/alexkrol/
 
 
 
+#### Crypto Fund Syndicate Protocol
 
+Automated blockchain-based payments and investment management system.
+
+Alexey Krol  https://www.linkedin.com/in/alexkrol/
 
 
 Crypto Fund Syndicate Protocol a set of smart contracts of the next generation, the basis of which will be artificial intelligence. CFSP will be executed on any CFCF-supported blockbuster and allows for the formation of "fast" syndicates, and at peak moments, a financial lever comparable to global GDP - trillions of dollars.
