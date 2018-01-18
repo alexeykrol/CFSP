@@ -6,13 +6,14 @@
 Алексей Крол
 
 https://www.facebook.com/alex.v.krol
+
 https://www.linkedin.com/in/alexkrol/
-http://alexeykrol.com/ - блог и учебная платформа
+
+http://alexeykrol.com/ - блог
+
 https://medium.com/krol-institute - блог на медиум, там много материалов, связанных с перспективами образования
-SB  - блок проекта в связи с блокчейном
-Eng  - блог образования и блокчейнов - на английском
-https://github.com/SerendipityLab/CFSP 
-http://su.ipbhost.com/forums/ - форум текущей программы
+
+
 
 # Содержание
 
